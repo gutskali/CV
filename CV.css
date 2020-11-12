@@ -2,7 +2,7 @@
     background-color: #649CF0;
     border-radius: 5px;
     width: 35px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     margin-top: 25px;
 }
 .date{
@@ -18,12 +18,13 @@
 }
 .entre{
     color: #537FC1;
+    margin-top: 50px;
 }
 .am2{
     background-color: #649CF0;
     border-radius: 5px;
-    width: 70px;
-    margin-bottom: 100px;
+    width: 45px;
+    margin-bottom: 150px;
 }
 
 
@@ -39,7 +40,7 @@
 .bleumarine{
     background-color: #3A6CB8;
     width: 290px;
-    height: 1000px;
+    height: 1500px;
     float:left;
     position: absolute;
     left: 0px;
@@ -53,6 +54,7 @@
     height: 100px;
     margin-left: 400px;
     margin-top: 50px;
+    font-size: 18px;
 }
 .texte1{
     margin-top: 100px;
@@ -74,6 +76,8 @@
 .competence{
     margin-left: 15px;
     margin-bottom: 100px;
+    margin-top: 25px;
+
 }
 .soutitre1{
     margin-left: 5px;
@@ -81,4 +85,26 @@
 
 .soutitre2{
     margin-left: 5px;
+}
+.img2{
+    width: 25px;
+    height: 25px;
+}
+.form{
+    float: left;
+    width: 700px;
+}
+.for2{
+    color: #537FC1;
+}
+.white{
+    background-color: white;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+}
+.comp{
+    float: right; 
+    margin-top: 0px;
+
 }
