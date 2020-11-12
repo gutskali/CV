@@ -1,0 +1,84 @@
+.am{
+    background-color: #649CF0;
+    border-radius: 5px;
+    width: 35px;
+    margin-bottom: 100px;
+    margin-top: 25px;
+}
+.date{
+    position:relative;
+    float:left;
+    width: 75px;
+}
+.exper{
+    position:relative;
+    float: right;
+    margin-right: 100px;
+
+}
+.entre{
+    color: #537FC1;
+}
+.am2{
+    background-color: #649CF0;
+    border-radius: 5px;
+    width: 70px;
+    margin-bottom: 100px;
+}
+
+
+.container {
+    width: 210mm;
+    height: 297mm;
+}
+
+.nom{
+    margin-left: 2px;
+    margin-top: 15px;
+}
+.bleumarine{
+    background-color: #3A6CB8;
+    width: 290px;
+    height: 1000px;
+    float:left;
+    position: absolute;
+    left: 0px;
+}
+.adresse{
+    margin-top: 100px;
+    margin-left: 15px;
+}
+.profil{
+    width: 700px;
+    height: 100px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.texte1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.donnee{
+    margin-left: 15px;
+}
+.permis{
+    margin-bottom: 100px;
+    margin-left: 15px;
+}
+.trait{
+    border-top: 2px solid black;
+}
+
+
+.competence{
+    margin-left: 15px;
+    margin-bottom: 100px;
+}
+.soutitre1{
+    margin-left: 5px;
+}
+
+.soutitre2{
+    margin-left: 5px;
+}
